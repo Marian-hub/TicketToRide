@@ -22,11 +22,11 @@ There is a simple menu  that gives the player two possibilities:<br/>
 
 ## player actions
 During his turn the player can perform one of these three actions:
-- ** Pick faced up cards **:<br/>
+- **Pick faced up cards**:<br/>
 The player can choose 2 of the 5 faced up cards and take them as his, then there will be randomly picked another 2 cards so there will always be 5 faced up cards.
-- ** Pick a card **:<br/>
+- **Pick a card**:<br/>
 The  player picks the first 2 cards on top of the deck of cards
-- ** Create a new line **:<br/>
+- **Create a new line**:<br/>
 If the player can decide to create a new railway line, if the line has N wagons he would have to use N cards of the same color of the same line to create the create the new railway line. If the player does not have enought cards he can abort the operation and do  something else.
 
 ## Scoreboard 
