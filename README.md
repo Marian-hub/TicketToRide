@@ -38,3 +38,15 @@ Every time that a player creates a new railway line he gets points depending on 
 
 ## Winning 
 When the last card of the deck has been picked the player with the most points wins the game
+
+# First fase of the project
+
+## map handling
+
+- Initially the map is just an image and points with the  name of the city on the image then, a table is created with the names and random values are assigned  according to the rules.
+
+..........better ideas if I have enough time
+
+## Menu
+
+- 
